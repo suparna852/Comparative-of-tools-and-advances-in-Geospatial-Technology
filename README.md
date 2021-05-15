@@ -1,0 +1,2 @@
+# Comparative-of-tools-and-advances-in-Geospatial-Technology
+Geospatial Technology / Geomatics is basically concerned with the extraction ,transmission , collection ,processing ,analysis and interpretion of geographically referenced data. It comprises of three main tecnologies : GIS,GPS and RS .These technologies combined together help in specifically studying and analysing various geographic bodies which require some technical tools . This term paper discusses those tools and some of the latest advances in them .
